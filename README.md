@@ -1,2 +1,2 @@
 # MazeGenerator
-Maze generation with randomzed dfs : iterative implementation
+Maze generation with randomized dfs : iterative implementation
